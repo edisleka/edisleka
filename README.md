@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Front-End Developer with a strong interest in Web Technologies. I enjoy creating new apps and reading books in my free time and am always eager to learn and explore new technologies.</h3>
+<h3 align="center">A passionate Front-End Developer with a deep enthusiasm for web technologies and a creative mindset for building engaging applications. I enjoy crafting innovative solutions, delving into books for inspiration during my downtime, and staying curious about exploring and mastering new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edisleka&label=Profile%20views&color=0e75b6&style=flat" alt="edisleka" /> </p>
