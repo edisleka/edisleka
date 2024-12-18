@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/edis-leka/](https://www.linkedin.com/in/edis-leka/)
 
-- 💬 Ask me about **React JS, SASS, Webpack**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **edisleka@yahoo.gr**
 
