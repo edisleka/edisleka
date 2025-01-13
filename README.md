@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png?v=1957908778386742672" alt="next.js" width="40" height="40" style={{color: white}/> 
+    <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="next.js" width="40" height="40" style={{color: white}/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png" alt="tailwindcss" width="40" height="40" />
