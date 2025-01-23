@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lekaedis" target="blank"><img src="https://img.shields.io/twitter/follow/lekaedis?logo=twitter&style=for-the-badge" alt="lekaedis" /></a> </p>
 
-- 🌱 I’m currently learning *Sanity, TypeScript, Tailwind**
+- 🌱 I’m currently learning *Nwe Techs**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/edis-leka/](https://www.linkedin.com/in/edis-leka/)
 
