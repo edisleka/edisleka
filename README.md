@@ -32,7 +32,7 @@
     <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/react-native-logo.jpg" alt="reactnative" width="40" height="40"/>
   </a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://d33wubrfki0l68.cloudfront.net/a31514616d963dbac4d1d91a27fa4153d24f56e1/789e9/static/08c5c12e5827e66576c742cd05aa8d28/bc59e/expo-logo-black.png" alt="expo" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/12504344?v=4" alt="expo" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
