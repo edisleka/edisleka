@@ -28,10 +28,10 @@
 
 <h3 align="left">Mobile Development Stack:</h3>
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
     <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/react-native-logo.jpg" alt="reactnative" width="40" height="40"/>
   </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer" title="React Native Expo">
     <img src="https://avatars.githubusercontent.com/u/12504344?v=4" alt="expo" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
