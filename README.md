@@ -1,6 +1,6 @@
 <h3 align="center">A passionate mobile app developer specializing in React Native and Expo. I love creating beautiful, performant, and user-friendly mobile applications. I enjoy solving complex problems, staying up-to-date with the latest mobile development trends, and building cross-platform solutions that delight users.</h3>
 
-<img align="center" alt="Mobile Development" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="Mobile Development" width="100%"  src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edisleka" alt="edisleka" /></a> </p>
 
@@ -17,7 +17,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/edis-leka/](https://www.linkedin.com/in/edis-leka/)
 
 - ⚡ Fun fact **I can debug mobile apps while playing soccer!**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +43,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edisleka&show_icons=true&locale=en&layout=compact" alt="edisleka" /></p>
 
