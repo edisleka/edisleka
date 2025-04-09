@@ -46,5 +46,5 @@
 <p align="center">
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edisleka&show_icons=true&locale=en&layout=compact" alt="edisleka" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edisleka&show_icons=true&locale=en" alt="edisleka" /></p>
+<p style="margin-top: 10px;"  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edisleka&show_icons=true&locale=en" alt="edisleka" /></p>
 </p>
