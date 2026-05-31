@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&customColorList=12,20,24&text=Edis%20Leka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Native%20and%20Expo%20Developer&descAlignY=55&descSize=16" alt="Edis Leka Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api" alt="Edis Leka Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Edis Leka 👋</h1>
@@ -96,24 +96,6 @@ I share content about **React Native**, **Expo**, and mobile development on Link
   <a href="https://www.linkedin.com/in/edis-leka/">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-React%20Native%20%26%20Expo%20Content-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=edisleka&layout=compact&theme=transparent&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=edisleka&show_icons=true&theme=transparent&hide_border=true" 
-    alt="GitHub Stats" 
-  />
 </p>
 
 ---
