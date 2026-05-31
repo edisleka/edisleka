@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api" alt="Edis Leka Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&customColorList=12,20,24" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Edis Leka 👋</h1>
