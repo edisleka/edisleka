@@ -1,4 +1,6 @@
-![Edis Leka Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=180&section=header&text=Edis%20Leka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Native%20%26%20Expo%20Developer%20%7C%20WordPress%2FWooCommerce%20%2B%20Mobile%20App%20Builder&descAlignY=55&descSize=15)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&customColorList=12,20,24&text=Edis%20Leka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Native%20and%20Expo%20Developer&descAlignY=55&descSize=16" alt="Edis Leka Banner" />
+</p>
 
 <h1 align="center">Hi, I'm Edis Leka 👋</h1>
 
