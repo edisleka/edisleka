@@ -1,173 +1,52 @@
-<h1 align="center">Hi 👋, I'm Edis Leka</h1>
+![Edis Leka Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=180&section=header&text=Edis%20Leka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Native%20%26%20Expo%20Developer%20%7C%20WordPress%2FWooCommerce%20%2B%20Mobile%20App%20Builder&descAlignY=55&descSize=15)
+
+<h1 align="center">Hi, I'm Edis Leka 👋</h1>
 
 <h3 align="center">
-React Native & Expo developer building clean, performant, and user-friendly cross-platform mobile applications.
+React Native & Expo Developer focused on building clean, scalable, and user-friendly mobile experiences.
 </h3>
 
-<img 
-  align="center" 
-  alt="Mobile Development" 
-  width="100%"  
-  src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" 
-/>
-
-<br />
-<br />
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=edisleka&theme=flat&no-frame=true&margin-w=10" 
-      alt="GitHub Profile Trophy" 
-    />
+  <a href="https://www.linkedin.com/in/edis-leka/">
+    <img src="https://img.shields.io/badge/Follow%20my%20React%20Native%20%26%20Expo%20content-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/lekaedis" target="_blank">
-    <img 
-      src="https://img.shields.io/twitter/follow/lekaedis?logo=x&style=for-the-badge" 
-      alt="Follow lekaedis on X" 
-    />
+  <a href="mailto:edisleka@yahoo.gr">
+    <img src="https://img.shields.io/badge/Contact%20me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/edisleka">
+    <img src="https://img.shields.io/badge/GitHub-edisleka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-- ❤️ I'm in love with **React Native, Expo, and advanced mobile development patterns**
+I'm a developer with a strong interest in **mobile app development**, especially with **React Native** and **Expo**.
 
-- 📝 I write and share content about mobile development on [LinkedIn](https://www.linkedin.com/in/edis-leka/)
+I enjoy creating cross-platform apps that are fast, practical, and visually clean. My background also includes **WordPress**, **WooCommerce**, and **SEO**, which helps me think not only like a developer, but also like someone who understands products, users, and digital growth.
 
-- 💬 Ask me about **React Native, Expo, TypeScript, and mobile app development**
-
-- 📫 Reach me at **edisleka@yahoo.gr**
-
-- 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/edis-leka/)
-
-- ⚡ Fun fact: **I can debug mobile apps while playing soccer!**
+- ❤️ In love with **React Native, Expo, and advanced mobile development patterns**
+- 📱 Building mobile apps with **navigation, APIs, authentication, storage, and clean UI systems**
+- ✍️ Sharing React Native & Expo content on [LinkedIn](https://www.linkedin.com/in/edis-leka/)
+- 💬 Ask me about **React Native, Expo, TypeScript, NativeWind, WordPress, WooCommerce, and SEO**
+- ⚡ Outside coding, football keeps my problem-solving sharp.
 
 ---
 
-### Connect with me
+## 🧠 What I Focus On
 
-<p align="left">
-  <a href="https://twitter.com/lekaedis" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="lekeadis" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-
-  <a href="https://linkedin.com/in/edis-leka" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="edis-leka" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-
-  <a href="https://instagram.com/edis_leka" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="edis_leka" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-</p>
-
----
-
-### Mobile Development Stack
-
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-      alt="React Native" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer" title="Expo">
-    <img 
-      src="https://avatars.githubusercontent.com/u/12504344?v=4" 
-      alt="Expo" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-      alt="TypeScript" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-      alt="JavaScript" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer" title="NativeWind">
-    <img 
-      src="https://avatars.githubusercontent.com/u/106017859?s=200&v=4" 
-      alt="NativeWind" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img 
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-      alt="Git" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-      alt="GitHub" 
-      width="40" 
-      height="40"
-    />
-  </a>
-</p>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=edisleka&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages" 
-  />
-
-  <br />
-  <br />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=edisleka&show_icons=true&locale=en" 
-    alt="GitHub Stats" 
-  />
-</div>
+```ts
+const edis = {
+  role: "React Native & Expo Developer",
+  focus: [
+    "Cross-platform mobile apps",
+    "Clean UI development",
+    "Expo Router navigation",
+    "TypeScript-first development",
+    "Mobile app structure and patterns",
+    "WordPress / WooCommerce digital products",
+    "SEO-focused web experiences"
+  ],
+  content: "React Native, Expo, and mobile development",
+};
